@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=kavya-saliyan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
 <!--
 **kavya-saliyan/kavya-saliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
